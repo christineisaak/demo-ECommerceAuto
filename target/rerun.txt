@@ -1,0 +1,6 @@
+file:src/main/resources/features/F2-Login.feature:11
+file:src/main/resources/features/F6-HomeSliders.feature:4:9
+file:src/main/resources/features/F8-WishList.feature:22
+file:src/main/resources/features/F7-FollowUs.feature:20
+file:src/main/resources/features/F4-Search.feature:11
+file:src/main/resources/features/F1-Register.feature:4
